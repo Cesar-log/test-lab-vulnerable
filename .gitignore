@@ -1,0 +1,10 @@
+# Banco gerado automaticamente pelo app (recriado na primeira execução)
+app/lab.db
+
+# Relatórios gerados pelo scanner
+scanner/report.md
+scanner/report.json
+
+# Python
+__pycache__/
+*.pyc
